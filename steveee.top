@@ -1,28 +1,8 @@
 {
   "sites": [ 
-   {
-      "key": "csp_xpath_史蒂夫自维护专用源",
-      "name": "默认主页-史蒂夫不是史蒂芬-内部学习交流-请勿传播",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable":0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://cncncloud.com/api/v3/file/source/3064147/shdy.json?sign=YHhLfP44aWq8SFeI8-j8-hJA8W6_Mw2z2euirYeJ7E4%3D%3A0"
-    },
-    {
-      "key": "csp_xpath_猫群专用工厂",
-      "name": "影视工厂-资源皆来自网上搜集-请勿商用盈利",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable":0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://cncncloud.com/api/v3/file/source/3064301/ysgc.json?sign=rOLxUlH1hroPp-1tqLAQxkw_B-EORt_B9K61gSNQK6o%3D%3A0"
-    },
  {
-"key":"csp_xpath_ysjc",
-"name":"工厂影视(XPath)",
+"key":"csp_xpath_ysjc_史蒂夫自维护专用源",
+"name":"默认主页-史蒂夫不是史蒂芬-内部学习交流-请勿传播",
 "type":3,
 "api":"csp_XPath",
 "searchable":1,
@@ -32,7 +12,7 @@
 },
   {
     "key": "csp_YydsAli1",
-    "name": "YYDS阿里(爬虫)",
+    "name": "YYDS阿里(爬虫)-资源皆来自网上搜集-请勿商用盈利",
     "type": 3,
     "api": "csp_YydsAli1",
     "searchable": 1,
@@ -301,7 +281,6 @@
 {"key":"csp_appys_iptv_乐酷TV", "name":"乐酷TV(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"iptv_乐酷TV"},
 {"key":"csp_appys_iptv_小极TV", "name":"小极TV(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"iptv_小极TV"}
  ],
-
  "lives": [
     {
       "group": "湾湾新闻",
@@ -6125,6 +6104,61 @@
       "type": 1,
       "url": "https://jx.renrenmi.cc/?url="
     }
+    {
+      "name": "默认解析建议必选此项",
+      "type": 2,
+      "url": "Parallel"
+    },
+    {
+      "name": "猫群专用1",
+      "type": 1,
+      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1095368&key=cdgjpsuDFLNRTUVY03&url="
+    },
+    {
+      "name": "猫群专用2",
+      "type": 0,
+      "url": "https://jx.parwix.com:4433/player/analysis.php?v="
+    },
+    {
+      "name": "猫群专用3",
+      "type": 1,
+      "url": "https://json.hfyrw.com/mao.go?url="
+    },
+    {
+      "name": "猫群专用4",
+      "type": 0,
+      "url": "https://jx.parwix.com:4433/player/?url="
+    },
+    {
+      "name": "猫群专用5",
+      "type": 1,
+      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1285201&key=bcikqtwxyADEGKUX36&url="
+    },
+    {
+      "name": "猫群专用6",
+      "type": 1,
+      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1494542&key=ijmqvwxABEHILMOT48&url="
+    },
+    {
+      "name": "猫群专用7",
+      "type": 1,
+      "url": " https://json.pangujiexi.com:12345/json.php?url="
+    },
+    {
+      "name": "猫群专用8",
+      "type": 1,
+      "url": " http://jx.kuanjv.com/mp4/5.1?url="
+    },
+    {
+      "name": "猫群专用9",
+      "type": 1,
+      "url": " http://admin.vodjx.top/json.php?url="
+    },
+    {
+      "name": "猫群专用10",
+      "type": 1,
+      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="
+    }
   ],
 
   "flags": [
@@ -6139,6 +6173,8 @@
     "mgtv",
     "wasu",
     "bilibili"
+    "renrenmi",
+    "miaoparty",
   ],
   "spider": "https://sharertv.coding.net/p/mao/d/mao/git/raw/master/custom_spider.jar",
 
@@ -6362,5 +6398,7 @@
     "qiu.xixiqiu.com",
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
-  ]
+  ],
+   "spider": "https://cncncloud.com/api/v3/file/source/3064086/S_custom_spider.jar?sign=Ukm6YDT5i2ycisEVT5UXLXJLOlhaue1CWaPrVQmOonY%3D%3A0",
+  "wallpaper": "https://picsum.photos/1080/"
 }
