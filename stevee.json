@@ -6172,7 +6172,7 @@
     "pptv",
     "mgtv",
     "wasu",
-    "bilibili"
+    "bilibili",
     "renrenmi",
     "miaoparty",
   ],
@@ -6399,6 +6399,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-   "spider": "https://cncncloud.com/api/v3/file/source/3064086/S_custom_spider.jar?sign=Ukm6YDT5i2ycisEVT5UXLXJLOlhaue1CWaPrVQmOonY%3D%3A0",
   "wallpaper": "https://picsum.photos/1080/"
 }
