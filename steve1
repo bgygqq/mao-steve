@@ -4,24 +4,7 @@
 //"spider":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/custom_spider.txt",
 "sites":[
 
-"key":"csp_xpath_ysjc_史蒂夫自维护专用源",
-"name":"默认主页-史蒂夫不是史蒂芬-内部学习交流-请勿传播",
-"type":3,
-"api":"csp_XPath",
-"searchable":1,
-"quickSearch":1,
-"filterable":0,
-"ext":"https://sharertv.coding.net/p/mao/d/mao/git/raw/master/ext/gc.json"
-},
-  {
-    "key": "csp_YydsAli1",
-    "name": "YYDS阿里(爬虫)-资源皆来自网上搜集-请勿商用盈利",
-    "type": 3,
-    "api": "csp_YydsAli1",
-    "searchable": 1,
-    "quickSearch": 0,
-    "filterable": 0
-  },{"key":"csp_appys_躺平影视","name":"躺平影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://www.lltpys.com/api.php/app/"},
+{"key":"csp_appys_史蒂夫自维护专用源","name":"默认主页-史蒂夫不是史蒂芬-内部学习交流-请勿传播","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://www.lltpys.com/api.php/app/"},
 {"key":"csp_appys_大熊影视","name":"大熊影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://dxys2233.com/mogai_api.php/v1.vod"},
 {"key":"独播库","name":"独播库(XPMac)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/duboku2.json"},
 {"key":"auete_spider","name":"Auete影视(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/auete.json"},
