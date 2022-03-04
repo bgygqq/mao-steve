@@ -7,7 +7,7 @@
 {"key":"csp_appys_饭团影视", "name":"饭团影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://television.wkfile.com/api.php/app/"},
 {"key":"if101资源","name":"海外推荐","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0},
   
-{"key":"csp_Buka","name":"真不卡(爬虫)","type":3,"api":"csp_Enlienli","searchable":1,"quickSearch":0,"filterable":1},
+{"key":"csp_Buka","name":"真不卡(爬虫)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"csp_Enlienli","name":"嗯哩嗯哩(爬虫)","type":3,"api":"csp_Enlienli","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"csp_Auete","name":"Auete(爬虫)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"csp_Cokemv","name":"Cokemv(爬虫)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":0,"filterable":1},
@@ -26,6 +26,7 @@
 {"key":"csp_xpath_4kpianku","name":"4k片库网(XPath)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/4kpianku.json"},
 {"key":"csp_xpath_agefans","name":"Age动漫(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/agefans.json"},
 {"key":"csp_xpath_saohuotv2","name":"骚火电影(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/saohuotv2.json"},
+{"key":"csp_xpath_subb","name":"素白白影视(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/subaibai.json"},
 
 {"key":"csp_appysv2_迪迪影院","name":"迪迪影院V2(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"迪迪影院###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"},
 {"key":"csp_appysv2_灵狐影视","name":"灵狐影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"灵狐影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"},
@@ -236,7 +237,7 @@
 {"name":"星星54","type":1,"url":"http://47.100.138.210:91/home/api?type=ys&uid=4476440&key=eghkvwxyFHORVX3478&url="},
 {"name":"星星55","type":1,"url":"http://app.renrenmi.cc:3333/api/?key=mtjJAJRXpwT5XAqWnn&url="},
 {"name":"星星56","type":1,"url":"http://cs.024zs.com:8090/api/?key=ohApwnws7CIqX1xl9J&url="},
-{"name":"星星57","type":1,"url":"http://jx.yinliub.cn/home/api?type=ys&uid=512130&key=entyABFQRVYZ014689&url="},
+//{"name":"星星57","type":1,"url":"http://jx.yinliub.cn/home/api?type=ys&uid=512130&key=entyABFQRVYZ014689&url="},
 {"name":"星星58","type":1,"url":"http://jx.laodi.xyz:6699/api.php/user/jx?uid=4&ldkey=BLsUKYVZiWdmQc7bbpT3&url="},
 {"name":"星星59","type":1,"url":"http://jx.maccms.ren/home/api?type=ys&uid=15959&key=abgisvyzFHJKOSTUW0&url="},
 {"name":"星星60","type":1,"url":"http://ts.yjhan.com:8090/api/?key=43yVlZDaJg7dYH3DZi&url="},
@@ -324,6 +325,5 @@
  
 "wallpaper":"https://i.ibb.co/9rcmg7n/cat.jpg",
  
-"spider":"https://zxfccmm4.coding.net/p/maotv/d/CatVodTVSpider/git/tree/master/jar/custom_spider.jar;md5;12f0676ab387fe20f324e4f2ea3f6722"
-
+"spider":"https://mo-xiao.coding.net/p/c/d/c/git/raw/master/jar/custom_spider.jar;md5;5bd9384ec8579b2e70d11664935d9529"
 }
