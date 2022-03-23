@@ -25,8 +25,6 @@
   {"key":"csp_xpath_subb","name":"素白白影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/subaibai.json"},
   {"key":"csp_xpath_lranc","name":"天天影视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/lranc.json"},
   {"key":"csp_xpath_jpys","name":"极品影视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/jpys.json"},
-  {"key":"csp_appysv2_追剧达人","name":"追剧推荐(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vipmv.co/xgapp.php/v1/"},
-  {"key":"csp_appysv2_星空影视","name":"星空推荐(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xkysmv.com/xgapp.php/v1/"},
   {"key":"csp_appysv2_天空影视","name":"天空推荐(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tkys.tv/xgapp.php/v1/"},
   {"key":"csp_appysv2_天空影视V2","name":"天空影视V2(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tkys.tv/xgapp.php/v2/"},
   {"key":"csp_appysv2_影视达人","name":"影视达人(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.ysdr.vip/api.php/v1.vod"},
