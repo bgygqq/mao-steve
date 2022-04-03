@@ -1,17 +1,14 @@
 {"sites":[
-  {"key":"libvo_type4","name":"Libvio(T4)","type":4,"api":"https://cat.mcuke.top/sp/7d8c8213/2304188638","searchable":1,"quickSearch":1,"filterable":1},
-  {"key":"mudvod_type4","name":"泥巴(T4)","type":4,"api":"https://cat.mcuke.top/sp/7d8c8213/7405350460","searchable":1,"quickSearch":1,"filterable":1},
-  {"key":"xiaocao_type4","name":"小草(T4)","type":4,"api":"http://cat.mcuke.top/sp/7d8c8213/6696025555","searchable":1,"quickSearch":1,"filterable":1},
-  {"key":"bde4_type4","name":"哔嘀影视(T4)","type":4,"api":"https://cat.mcuke.top/sp/7d8c8213/2501282101","searchable":1,"quickSearch":1,"filterable":1},
-  {"key":"wmkk_type4","name":"完美看看(T4)","type":4,"api":"https://cat.mcuke.top/sp/7d8c8213/2501282101","searchable":1,"quickSearch":1,"filterable":1},
-  {"key":"csp_appysv2_天空影视","name":"天空推荐(v1)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tkys.tv/xgapp.php/v1/"},
+ {"key":"csp_appysv2_天空影视","name":"天空推荐(v1)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tkys.tv/xgapp.php/v1/"},
   {"key":"csp_appysv2_天空影视V2","name":"天空影视V2(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tkys.tv/xgapp.php/v2/"},
   {"key":"csp_xpath_if101","name":"if101(XPM)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tangsan99999.github.io/sub/xpath/if101.json"},
   {"key":"csp_Buka","name":"真不卡(爬虫)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_Auete","name":"Auete(爬虫)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_Enlienli","name":"嗯哩嗯哩(爬虫)","type":3,"api":"csp_Enlienli","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_N0ys","name":"90影视(爬虫)","type":3,"api":"csp_N0ys","searchable":1,"quickSearch":1,"filterable":0},
+  {"key":"csp_77","name":"77(爬虫)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_kmys","name":"酷猫影视(爬虫)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
+  {"key":"csp_xpath_lib","name":"LIBVIO(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tangsan99999.github.io/sub/xpath/lib.json"},
   {"key":"csp_xpath_yanet","name":"鸭奈飞(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tangsan99999.github.io/sub/xpath/yanet.json"},
   {"key":"csp_xpath_ddg","name":"达达龟(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tangsan99999.github.io/sub/xpath/dadagui.json"},
   {"key":"csp_xpath_jbb","name":"剧白白(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tangsan99999.github.io/sub/xpath/jubaibai.json"},
@@ -31,6 +28,10 @@
   {"key":"csp_xpath_saohuotv2","name":"骚火电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tangsan99999.github.io/sub/xpath/saohuotv2.json"},
   {"key":"csp_xpath_lranc","name":"天天影视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tangsan99999.github.io/sub/xpath/lranc.json"},
   {"key":"csp_xpath_jpys","name":"极品影视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tangsan99999.github.io/sub/xpath/jpys.json"},
+  {"key":"csp_appysv2_钟特影视","name":"钟特影视(v1)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.zteys.com/api.php/v1.vod"},
+  {"key":"csp_appysv2_青柠蓝光","name":"青柠蓝光(v1)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.lovebuy365.com/mogai_api.php/v1.vod"},
+  {"key":"csp_appysv2_好6哦影视","name":"好6哦影视(v1)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hao6o.com/mogai_api.php/v1.vod"},
+  {"key":"csp_appysv2_UM影院","name":"UM影院(v1)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.2tu.uk/api.php/v1.vod"},
   {"key":"csp_appysv2_追剧达人","name":"追剧达人(v1)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vipmv.co/xgapp.php/v1/"},
   {"key":"csp_appysv2_影视达人","name":"影视达人(v1)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.ysdr.vip/api.php/v1.vod"},
   {"key":"csp_appysv2_tvip","name":"tvip(v1)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.tvip.cc/api.php/v1.vod"},
@@ -281,5 +282,5 @@
   ],
 
 
-  "wallpaper":"https://i.ibb.co/9rcmg7n/cat.jpg","spider":"https://mo-xiao.coding.net/p/c/d/c/git/raw/master/jar/custom_spider.jar;md5;6bfb97768e80bd967728229583208220"
+  "wallpaper":"https://i.ibb.co/9rcmg7n/cat.jpg","spider":"https://mo-xiao.coding.net/p/c/d/c/git/raw/master/jar/custom_spider.jar;md5;8f06c101c0118b92ff3b42503819f108"
 }
